@@ -58,7 +58,7 @@
         <h2>SIPEMA</h2>
         <div class="menu">
             <a href="/dashboardadmin">Dashboard</a>
-            <a href="/datapengaduanadmin">Data Pengaduan</a>
+            <a href="/datapengaduan">Data Pengaduan</a>
         </div>
     </div>
     <form action="{{ route('logout') }}" method="POST">
